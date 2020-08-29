@@ -1,2 +1,2 @@
 # Heart_Disease_Prediction
-Predicting heart disease from patient's clinical records.
+Predicting heart if a patient has heart disease or not using machine learning
